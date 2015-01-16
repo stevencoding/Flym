@@ -13,3 +13,5 @@ https://play.google.com/store/apps/details?id=net.fred.feedex
 ![](https://lh4.ggpht.com/DtR-Gvoi4zFwDJRq1wzV5nwfjSGT4hN8AodNTeVMOjcxhB36X-zFBMbW5m23H0S9scQ=h310-rw) _
 ![](https://lh3.ggpht.com/6v61QeUKPsuPADJgwysm04yJVHq8HzRJSXj87GLMdHk9t_S0hMurn1K0kVjxGUYee-I=h310-rw) _
 ![](https://lh5.ggpht.com/AX6VIOpw79hIZylnipMFwJQLQm7W0mG7lXk1vNdzk6FMwWiQj5Mq3vj4jnq3ZDzhBSZQ=h310-rw)
+
+Tried to open the project in Android Studio, and it reported error: could not find 'KEYSTORE PATH'
